@@ -4,16 +4,18 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий:
+1. Запустите терминал папки, в которую хотите клонировать проект
+2. Выполните слудюущую команду, чтобы клонировать репозиторий:
    ```bash
-   git@github.com:dmazharuk/test-case-vision-labs.git
+   git clone git@github.com:dmazharuk/test-case-vision-labs.git
 
-2. Запустите терминал и выполните следующие команды
+3. Выполните следующие команды для запуска проекта
    ```bash
+   cd test-case-vision-labs/client/
    npm install
    npm run dev
 
-3. Перейдите по ссылке
+4. Перейдите по ссылке
    ```bash
    http://localhost:5173
 
