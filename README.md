@@ -1,4 +1,4 @@
-# Rick and Morty Characters App
+# Rick and Morty
 
 Это веб-приложение для просмотра информации о персонажах из мультсериала "Рик и Морти". Проект разработан с использованием React.js, TypeScript, Vite и Tailwind CSS.
 
@@ -11,10 +11,16 @@
 2. Запустите терминал и выполните следующие команды
    ```bash
    npm install
-   
-   ```bash
    npm run dev
 
 3. Перейдите по ссылке
-```bash
-http://localhost:5173
+   ```bash
+   http://localhost:5173
+
+
+# Tech stack
+- React
+- React Router
+- TypeScript
+- Vite
+- Tailwind CSS
