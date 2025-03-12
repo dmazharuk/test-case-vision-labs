@@ -6,10 +6,15 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/rick-and-morty-app.git
+   git@github.com:dmazharuk/test-case-vision-labs.git
 
-npm install
+2. Запустите терминал и выполните следующие команды
+   ```bash
+   npm install
+   
+   ```bash
+   npm run dev
 
-npm run dev
-
+3. Перейдите по ссылке
+```bash
 http://localhost:5173
